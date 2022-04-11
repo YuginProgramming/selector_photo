@@ -1,0 +1,36 @@
+h1 {
+		font-size: 40px;
+}
+
+	.big {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: center;
+    flex-direction: column;
+}
+
+.big img {
+    width: 50%;
+}
+	
+.warning {
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: center;
+    flex-direction: column;
+}
+
+.warning img {
+    width: 50%;
+}
+
+.warning img {
+    width: 20%;
+}
+
+.warning p {
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}
